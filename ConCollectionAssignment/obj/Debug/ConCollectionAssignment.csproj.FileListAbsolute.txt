@@ -1,0 +1,7 @@
+E:\Tranning\DotNetConsoleApps\ConCollectionAssignment\ConCollectionAssignment\bin\Debug\ConCollectionAssignment.exe.config
+E:\Tranning\DotNetConsoleApps\ConCollectionAssignment\ConCollectionAssignment\bin\Debug\ConCollectionAssignment.exe
+E:\Tranning\DotNetConsoleApps\ConCollectionAssignment\ConCollectionAssignment\bin\Debug\ConCollectionAssignment.pdb
+E:\Tranning\DotNetConsoleApps\ConCollectionAssignment\ConCollectionAssignment\obj\Debug\ConCollectionAssignment.csprojAssemblyReference.cache
+E:\Tranning\DotNetConsoleApps\ConCollectionAssignment\ConCollectionAssignment\obj\Debug\ConCollectionAssignment.csproj.CoreCompileInputs.cache
+E:\Tranning\DotNetConsoleApps\ConCollectionAssignment\ConCollectionAssignment\obj\Debug\ConCollectionAssignment.exe
+E:\Tranning\DotNetConsoleApps\ConCollectionAssignment\ConCollectionAssignment\obj\Debug\ConCollectionAssignment.pdb
